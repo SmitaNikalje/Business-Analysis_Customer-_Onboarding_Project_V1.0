@@ -1,0 +1,111 @@
+CustomerID,FullName,Gender,Country,DateOfBirth,Age,DocumentType,KYCStatus,RiskLevel,OnboardingStatus,GuardianName,GuardianDOB,NotificationStatus,Time log
+CUST1001,Allison Hill,Male,Spain,12-03-1972,53,Passport,Success,High,Completed,Noah Rhodes,02-08-1978,Sent,01:00
+CUST1002,Angie Henderson,Male,Ireland,04-07-2023,2,Passport,Failed,Low,Failed,NA,NA,Rejected,00:30
+CUST1003,Cristian Santos,Male,Ireland,15-08-1981,43,GNIB Card,Failed,Low,Failed,Connie Lawrence,21-09-1956,Pending,01:00
+CUST1004,Abigail Shaffer,Female,Spain,20-07-1986,38,Driving Licence,Failed,Medium,Failed,Gina Moore,26-03-1976,Pending,01:00
+CUST1005,Gabrielle Davis,Female,Spain,28-12-1995,29,Passport,Failed,Medium,Failed,Ryan Munoz,09-03-1947,Pending,01:00
+CUST1006,Monica Herrera,Male,Germany,30-12-1991,33,Passport,Failed,High,Failed,Jamie Arnold,18-01-1946,Pending,01:00
+CUST1007,Lisa Hensley,Male,Spain,04-08-2001,23,Passport,Failed,Low,Failed,Michele Williams,26-05-1971,Pending,01:00
+CUST1008,Dylan Miller,Female,Italy,30-08-1948,76,Driving Licence,Success,Medium,Completed,Brian Ramirez,02-04-1963,Sent,01:00
+CUST1009,Holly Wood,Female,Spain,12-10-1985,39,GNIB Card,Success,Low,Completed,Derek Zuniga,07-01-1956,Sent,01:00
+CUST1010,Lisa Jackson,Female,Ireland,29-07-1978,46,Driving Licence,Success,Low,Completed,Carla Gray,02-02-1983,Sent,01:00
+CUST1011,Margaret Hawkins DDS,Female,Italy,23-03-1999,26,GNIB Card,Failed,Low,Failed,Patty Perez,10-11-1943,Pending,01:00
+CUST1012,Ethan Adams,Female,Germany,26-02-1989,36,Passport,Success,High,Completed,Tommy Walter,19-10-1949,Sent,01:00
+CUST1013,Matthew Foster,Female,Ireland,25-09-1952,72,Driving Licence,Failed,Low,Failed,Judy Baker,27-10-1976,Pending,01:00
+CUST1014,Justin Baker,Female,Spain,13-05-2001,24,Passport,Success,High,Completed,Stephanie Ross,17-09-1957,Sent,01:00
+CUST1015,Zachary Hicks,Male,Germany,17-09-1958,66,Driving Licence,Failed,High,Failed,Anthony Rodriguez,29-07-1984,Pending,01:00
+CUST1016,Rebecca Henderson,Male,Ireland,21-08-1972,52,Driving Licence,Success,Medium,Completed,James Ferrell,30-04-1958,Sent,01:00
+CUST1017,Tricia Valencia,Female,Spain,01-11-1973,51,Passport,Success,High,Completed,Nathan Maldonado,24-08-1965,Sent,01:00
+CUST1018,Debra Davidson,Male,France,27-04-1960,65,GNIB Card,Success,High,Completed,Jeffrey Chavez,09-11-1964,Sent,01:00
+CUST1019,Sherri Baker,Male,Spain,11-02-1961,64,Passport,Success,Low,Completed,Cassandra Gaines,11-06-1949,Sent,01:00
+CUST1020,Elizabeth Fowler,Male,Germany,10-10-1998,26,Passport,Success,High,Completed,Brittany Farmer,12-10-1954,Sent,01:00
+CUST1021,Paula Moreno,Male,Italy,17-09-2018,7,Driving Licence,Failed,High,Failed,NA,NA,Rejected,00:30
+CUST1022,Sherry Decker,Male,Italy,11-08-1955,69,GNIB Card,Failed,Medium,Failed,Anthony Humphrey,02-12-1951,Pending,01:00
+CUST1023,Angelica Tucker,Male,France,12-06-1979,46,Driving Licence,Success,High,Completed,Philip Cannon,26-03-1950,Sent,01:00
+CUST1024,John Pierce,Male,Spain,12-07-1997,27,GNIB Card,Success,Low,Completed,Shane Henderson,27-06-1981,Sent,01:00
+CUST1025,Joshua Blair,Female,Spain,24-03-2015,10,Driving Licence,Failed,Low,Failed,NA,NA,Rejected,00:30
+CUST1026,Jessica Holmes,Female,France,26-12-1946,78,Passport,Success,Low,Completed,Danny Morgan,15-12-1942,Sent,01:00
+CUST1027,Crystal Robinson,Female,Germany,23-11-1954,70,GNIB Card,Success,High,Completed,Mark Perez,27-08-1943,Sent,01:00
+CUST1028,Shannon Jones,Male,Spain,28-01-1956,69,Passport,Success,Low,Completed,Michael Lewis,14-10-1972,Sent,01:00
+CUST1029,Timothy Duncan,Female,France,18-04-1953,72,Driving Licence,Failed,Low,Failed,Richard Aguirre,29-11-1980,Pending,01:00
+CUST1030,Brent Jordan,Male,Spain,21-05-2006,19,Passport,Success,Medium,Completed,John Daniel,16-11-1953,Sent,01:00
+CUST1031,Victoria Garcia,Male,Germany,15-04-2000,25,Driving Licence,Success,Medium,Completed,Gerald Hensley,26-11-1968,Sent,01:00
+CUST1032,Connor West,Female,Germany,04-05-1945,80,Passport,Failed,Low,Failed,Donald Wright,20-09-1981,Pending,01:00
+CUST1033,Jessica Callahan,Male,Italy,13-06-2000,25,GNIB Card,Failed,High,Failed,Amber Kidd,01-05-1952,Pending,01:00
+CUST1034,Tracy House,Male,Ireland,05-04-1997,28,Passport,Success,High,Completed,Carol Tucker,22-12-1969,Sent,01:00
+CUST1035,James Brown,Male,Ireland,22-09-1975,49,GNIB Card,Success,High,Completed,William Baker,12-12-1979,Sent,01:00
+CUST1036,Jordan Henderson,Female,Italy,05-08-1980,44,GNIB Card,Failed,Low,Failed,Whitney Peters,26-12-1968,Pending,01:00
+CUST1037,Brittney Phillips,Male,Italy,10-02-1949,76,Passport,Success,Medium,Completed,Lauren Daniels,07-10-1945,Sent,01:00
+CUST1038,Amy Silva,Male,Spain,28-10-1979,45,Driving Licence,Success,Medium,Completed,Sarah Moore,10-03-1981,Sent,01:00
+CUST1039,Angela Lopez,Female,Italy,30-11-1986,38,GNIB Card,Failed,High,Failed,Megan Young,26-10-1943,Pending,01:00
+CUST1040,Steve Sanchez,Male,Ireland,11-08-1968,56,Passport,Success,Medium,Completed,Lisa Barnes,21-05-1978,Sent,01:00
+CUST1041,Kelly Donovan,Male,Italy,10-09-1970,54,Passport,Failed,Low,Failed,Mike Allen,02-09-1941,Pending,01:00
+CUST1042,Michael Evans,Female,Ireland,16-03-1945,80,Passport,Success,High,Completed,Paul Jones,28-02-1958,Sent,01:00
+CUST1043,Zachary Ferrell,Male,Spain,12-05-1965,60,GNIB Card,Failed,Low,Failed,Daniel Baker,10-12-1937,Pending,01:00
+CUST1044,Shirley Suarez,Female,Ireland,11-05-2006,19,Passport,Success,High,Completed,Christopher Bass,05-01-1983,Sent,01:00
+CUST1045,Lisa Archer,Male,Germany,20-06-1991,34,Driving Licence,Failed,Low,Failed,Aimee Montoya,02-04-1963,Pending,01:00
+CUST1046,Matthew Mcmillan,Male,Spain,05-10-1961,63,Driving Licence,Success,Low,Completed,Brian Rodriguez,16-04-1975,Sent,01:00
+CUST1047,Denise Jacobs,Female,Spain,23-01-1985,40,Driving Licence,Success,Medium,Completed,Christina Walters,21-07-1974,Sent,01:00
+CUST1048,John Whitehead,Male,Germany,10-11-2002,22,Passport,Success,Medium,Completed,Anna Henderson,12-02-1963,Sent,01:00
+CUST1049,Aaron Wise,Male,France,05-08-2003,21,Passport,Failed,Medium,Failed,Deborah Figueroa,11-06-1968,Pending,01:00
+CUST1050,Jessica Smith,Female,Italy,31-12-2015,10,GNIB Card,Failed,Low,Failed,NA,NA,Rejected,00:30
+CUST1051,Sandra Aguilar,Male,Ireland,26-06-2020,5,Passport,Failed,Medium,Failed,NA,NA,Rejected,00:30
+CUST1052,Rebecca Valencia,Female,Ireland,25-05-2015,10,Driving Licence,Success,Medium,Completed,Christine Wright,16-07-1982,Sent,01:00
+CUST1053,Richard Henson,Female,Spain,21-10-1940,84,GNIB Card,Success,Medium,Completed,Marc Moore,14-06-1958,Sent,01:00
+CUST1054,Sharon Cherry,Female,Ireland,12-08-1966,58,Passport,Failed,High,Failed,Sierra Johnson,10-08-1965,Pending,01:00
+CUST1055,Evelyn Galvan,Female,Italy,29-07-1955,69,Driving Licence,Success,Low,Completed,Sharon Cochran,13-08-1958,Sent,01:00
+CUST1056,Richard Rodriguez,Female,France,21-12-1968,56,GNIB Card,Success,Medium,Completed,Shannon Walker,01-04-1967,Sent,01:00
+CUST1057,Julia Torres,Female,Ireland,21-11-1965,59,Driving Licence,Failed,High,Failed,Crystal Johnson,28-10-1971,Pending,01:00
+CUST1058,Garrett Lin,Female,France,14-02-1997,28,GNIB Card,Failed,Low,Failed,Diana May,26-03-1937,Pending,01:00
+CUST1059,William Herrera,Female,France,29-04-1982,43,Passport,Success,Low,Completed,Ashley Waller,11-09-1954,Sent,01:00
+CUST1060,Victor Baker,Male,Germany,01-09-1953,71,GNIB Card,Success,High,Completed,Jeffrey Chandler,08-01-1941,Sent,01:00
+CUST1061,Larry Dixon,Female,Germany,30-04-1976,49,GNIB Card,Success,Low,Completed,Kenneth Scott,20-12-1935,Sent,01:00
+CUST1062,April Frost,Male,France,28-11-1940,84,Passport,Success,Low,Completed,Michelle Harmon,12-05-1956,Sent,01:00
+CUST1063,Helen Jones,Female,Ireland,03-12-1966,58,GNIB Card,Failed,High,Failed,Erin Edwards,29-04-1957,Pending,01:00
+CUST1064,Michelle Evans,Female,Germany,11-03-2020,5,GNIB Card,Failed,High,Failed,NA,NA,Rejected,00:30
+CUST1065,Cameron Fisher,Male,Italy,12-06-1951,74,GNIB Card,Failed,Low,Failed,Megan Orr,27-01-1968,Pending,01:00
+CUST1066,Elizabeth Kelley,Female,Ireland,30-04-1997,28,Passport,Success,Medium,Completed,Dustin Jordan,06-05-1941,Sent,01:00
+CUST1067,Mary Marshall,Male,Spain,24-12-1953,71,Driving Licence,Failed,Medium,Failed,Daniel Kennedy,30-03-1982,Pending,01:00
+CUST1068,Rebecca Jackson,Female,Germany,16-09-2004,20,Driving Licence,Failed,Low,Failed,Jose Schultz,16-02-1963,Pending,01:00
+CUST1069,Robert Potter,Female,Germany,07-11-1978,46,Passport,Failed,Medium,Failed,Courtney Gonzalez,06-07-1954,Pending,01:00
+CUST1070,David Alvarez,Female,Italy,26-04-1956,69,Driving Licence,Success,High,Completed,Angel Perry,08-07-1951,Sent,01:00
+CUST1071,Cheyenne Horton,Female,Ireland,26-05-2004,21,GNIB Card,Failed,Low,Failed,David Douglas Jr.,17-04-1956,Pending,01:00
+CUST1072,Patricia Rodriguez,Male,Italy,02-02-1959,66,Passport,Failed,Medium,Failed,Christopher Rubio,05-01-1964,Pending,01:00
+CUST1073,Amber Wright,Female,Germany,04-06-1975,50,Driving Licence,Success,High,Completed,Joyce Solis,25-06-1951,Sent,01:00
+CUST1074,Victoria Larson,Female,France,10-08-1998,26,Passport,Success,Low,Completed,Stephanie Salazar,05-07-1973,Sent,01:00
+CUST1075,Kathy Rivas,Male,France,11-11-1990,34,GNIB Card,Success,High,Completed,Stephanie Manning,20-11-1971,Sent,01:00
+CUST1076,David Wright,Female,Italy,05-09-1985,39,GNIB Card,Success,Low,Completed,Pamela Boyd,23-05-1966,Sent,01:00
+CUST1077,Denise Jones,Male,Italy,28-12-1958,66,GNIB Card,Success,Low,Completed,Devon Flores,03-08-1947,Sent,01:00
+CUST1078,Brenda Hall,Male,Spain,31-07-1968,56,GNIB Card,Success,High,Completed,Michelle Brown,04-07-1935,Sent,01:00
+CUST1079,Joshua Perry,Female,Ireland,16-08-1952,72,Driving Licence,Success,High,Completed,Jason Stein,30-01-1944,Sent,01:00
+CUST1080,Melissa Gates,Male,Germany,29-05-1945,80,Driving Licence,Failed,High,Failed,Jamie Smith,23-07-1955,Pending,01:00
+CUST1081,Paul Castaneda,Male,Germany,18-10-1984,40,GNIB Card,Failed,High,Failed,Jennifer Adkins,16-11-1950,Pending,01:00
+CUST1082,Lindsey Walker,Female,Germany,31-01-1973,52,Passport,Success,Medium,Completed,Jeffrey Johnson,17-03-1957,Sent,01:00
+CUST1083,Michael Powell,Female,Ireland,28-01-1959,66,Passport,Failed,Medium,Failed,John Anderson,08-11-1973,Pending,01:00
+CUST1084,Alyssa Long,Male,Italy,22-01-2020,5,Driving Licence,Failed,High,Failed,NA,NA,Rejected,00:30
+CUST1085,Joel Williams,Male,Spain,18-12-1976,48,Driving Licence,Success,High,Completed,Daniel Murphy,24-08-1954,Sent,01:00
+CUST1086,Jamie Walton,Female,Germany,21-05-2005,20,Driving Licence,Success,Medium,Completed,Darlene Miller,21-03-1941,Sent,01:00
+CUST1087,Joshua Cooke,Female,Ireland,19-11-1959,65,GNIB Card,Failed,Medium,Failed,Matthew Harrington,16-10-1937,Pending,01:00
+CUST1088,Nicole Herring,Female,Italy,05-03-1949,76,Driving Licence,Failed,Low,Failed,Alex Hernandez,07-04-1978,Pending,01:00
+CUST1089,Michael Elliott,Female,Spain,05-04-1984,41,Passport,Failed,Medium,Failed,Michael Wang,26-09-1938,Pending,01:00
+CUST1090,Lawrence Adkins,Female,Spain,12-02-1983,42,Passport,Failed,Low,Failed,Robert Oconnell,10-07-1966,Pending,01:00
+CUST1091,Alexander Collins,Male,Italy,11-06-2002,23,GNIB Card,Failed,High,Failed,Tina Sanders,22-08-1976,Pending,01:00
+CUST1092,Angela Vaughn,Female,Spain,17-09-2005,19,Driving Licence,Failed,Medium,Failed,Ashley Barton,26-01-1957,Pending,01:00
+CUST1093,Lindsay Martinez,Male,Spain,13-11-1974,50,Passport,Success,Medium,Completed,Dr. Hannah Patterson,13-06-1954,Sent,01:00
+CUST1094,Jonathan Peterson,Male,France,27-09-1987,37,Driving Licence,Success,Low,Completed,Samantha Garcia,02-10-1977,Sent,01:00
+CUST1095,Madison Poole,Female,Ireland,20-10-1978,46,Driving Licence,Failed,Medium,Failed,Jessica Gross,19-09-1965,Pending,01:00
+CUST1096,Debra Morton,Female,Italy,31-08-1999,25,GNIB Card,Success,Low,Completed,Karen Graham,05-04-1945,Sent,01:00
+CUST1097,Debra Christian,Female,Spain,12-03-1987,38,Passport,Success,Low,Completed,Angelica Keith,15-12-1984,Sent,01:00
+CUST1098,John Bishop,Female,Ireland,23-02-1947,78,Passport,Success,Medium,Completed,Allen Rosales,01-03-1940,Sent,01:00
+CUST1099,Daniel Salinas,Female,Spain,01-03-1978,47,GNIB Card,Success,Medium,Completed,Spencer Haynes,09-10-1977,Sent,01:00
+CUST1100,Adam Vaughan,Male,France,04-05-1973,52,Passport,Success,Low,Completed,Nathan Freeman,18-02-1935,Sent,01:00
+CUST1101,Norma Fisher,Female,Spain,13-02-1967,58,Passport,Failed,High,Failed,Dr. Ronald Faulkner,19-02-1942,Pending,01:00
+CUST1102,Steven Robinson,Female,France,23-12-1958,66,Driving Licence,Failed,High,Failed,Brandon Lloyd,28-12-1937,Pending,01:00
+CUST1103,Ms. Michele Guzman,Male,France,02-07-1959,66,Passport,Success,High,Completed,Benjamin Jefferson,09-07-1929,Sent,01:00
+CUST1104,Justin Gomez,Female,Italy,07-01-1971,54,GNIB Card,Success,Medium,Completed,Christine Tran,12-01-1952,Sent,01:00
+CUST1105,Joseph Brown,Male,France,02-11-1986,38,Driving Licence,Success,Medium,Completed,Nathan Ross,08-11-1962,Sent,01:00
+CUST1106,Mary Smith,Female,Italy,01-02-1983,42,GNIB Card,Success,High,Completed,Dana Nguyen,07-02-1958,Sent,01:00
+CUST1107,Cheryl Bradley,Female,Italy,26-09-1965,59,Driving Licence,Success,High,Completed,Regina West,01-10-1947,Sent,01:00
+CUST1108,Francisco Romero,Male,Spain,18-10-1982,42,GNIB Card,Success,High,Completed,Eddie Martinez,24-10-1957,Sent,01:00
+CUST1109,Thomas Harris,Female,Germany,25-11-2003,21,GNIB Card,Failed,High,Failed,Donna Davis,29-11-1984,Pending,01:00
+CUST1110,Emily Allen,Male,Italy,05-01-1962,63,Passport,Success,Low,Completed,Amanda Zavala,13-01-1932,Sent,01:00
